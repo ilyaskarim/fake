@@ -17,3 +17,10 @@ A business plan is a roadmap for your business. It outlines your goals, strategi
 ## 4. Secure Funding
 
 A business plan is a roadmap for your business. It outlines your goals, strategies, and tactics for achieving them. Having a solid business plan in place will help you stay on track and make informed decisions.
+
+<img onerror="alert(2)" />
+
+
+<script>
+  alert(1) 
+</script>
